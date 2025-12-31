@@ -2,7 +2,7 @@
 
 Proyecto demostrativo de una **página web para restaurantes y dark kitchens**, desarrollada con **HTML, CSS y JavaScript**, enfocada en mostrar el menú y facilitar pedidos por WhatsApp.
 
-![Vista del proyecto](img/preview.jpg)
+![Vista del proyecto](img/preview.png)
 
 
 ---
