@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Hamburguesa Clásica",
+        "precio": 15,
+        "imagen": "img/hamburguesa.jpg"
+    },
+    {
+        "nombre": "Pizza Personal",
+        "precio": 18,
+        "imagen": "img/pizza.jpg"
+    },
+    {
+        "nombre": "Salchipapa",
+        "precio": 12,
+        "imagen": "img/salchipapa.jpg"
+    }
+]
